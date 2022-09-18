@@ -10,6 +10,11 @@
 <body>
         <?php
             echo"fajar ganteng";
-        ?>    
+        ?>   
+        <th>
+            <td>
+                cek
+            </td>
+        </th> 
 </body>
 </html>
